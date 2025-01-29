@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64.000003 64.000003"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="manjaro.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.6079914"
+     inkscape:cx="151.05357"
+     inkscape:cy="150.91499"
+     inkscape:window-width="2560"
+     inkscape:window-height="1300"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 5.8181818,0 C 2.5952823,0 0,2.5952823 0,5.8181818 V 58.179698 c 0,3.222899 2.5952823,5.818182 5.8181818,5.818182 H 17.454545 V 17.454545 H 40.727273 V 0 Z M 46.545455,0 V 63.99788 H 58.181818 C 61.404718,63.99788 64,61.402597 64,58.179698 V 5.8181818 C 64,2.5952823 61.404718,0 58.181818,0 Z M 23.272727,23.272727 V 64 H 40.727273 V 23.272727 Z"
+     style="fill:#35bfa4;fill-rule:evenodd;stroke-width:0.212033"
+     id="path1" />
+</svg>

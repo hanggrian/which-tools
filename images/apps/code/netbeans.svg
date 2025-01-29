@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+
+-->
+
+<svg
+   width="55.5"
+   height="64"
+   viewBox="0 0 55.5 64"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="netbeans.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1269531"
+     inkscape:cx="221.91368"
+     inkscape:cy="256"
+     inkscape:window-width="2560"
+     inkscape:window-height="1300"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <title
+     id="title1">Apache NetBeans Logo</title>
+  <description>Apache NetBeans Logo</description>
+  <g
+     id="logo"
+     stroke-width="0"
+     fill="none"
+     fill-rule="evenodd"
+     transform="scale(0.125)">
+    <path
+       d="M 222,0 V 99 L 86,178 0,128 Z"
+       fill="#a1c535"
+       id="path1" />
+    <path
+       d="M 444,128 358,178 222,99 V 0 Z"
+       fill="#add439"
+       id="path2" />
+    <path
+       d="M 444,384 358,334 V 178 l 86,-50 z"
+       fill="#1b6ac6"
+       id="path3" />
+    <path
+       d="m 222,512 v -99 l 136,-79 86,50 z"
+       fill="#2e90e8"
+       id="path4" />
+    <path
+       d="m 0,384 86,-50 136,79 v 99 z"
+       fill="#ea205e"
+       id="path5" />
+    <path
+       d="m 0,128 86,50 V 334 L 0,384 Z"
+       fill="#a5073e"
+       id="path6" />
+    <path
+       d="M 86,178 222,99 358,178 222,256 Z"
+       fill="#f1f6e2"
+       id="path7" />
+    <path
+       d="M 222,256 358,178 V 334 L 222,413 Z"
+       fill="#cedbe6"
+       id="path8" />
+    <path
+       d="m 86,178 136,78 V 413 L 86,334 Z"
+       fill="#ffffff"
+       id="path9" />
+  </g>
+</svg>

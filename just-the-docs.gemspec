@@ -11,12 +11,11 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.metadata      = {
     "bug_tracker_uri"   => "https://github.com/just-the-docs/just-the-docs/issues",
-    "changelog_uri"     => "https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md",
     "documentation_uri" => "https://just-the-docs.com/",
     "source_code_uri"   => "https://github.com/just-the-docs/just-the-docs",
   }
 
-  spec.files         = `git ls-files -z ':!:*.jpg' ':!:*.png'`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README|CHANGELOG|favicon)}i) }
+  spec.files         = `git ls-files -z ':!:*.jpg' ':!:*.png'`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README|favicon)}i) }
   spec.executables   << 'just-the-docs'
 
   spec.add_development_dependency "bundler", ">= 2.3.5"

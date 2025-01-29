@@ -20,9 +20,9 @@
   },
   "stylelint": {
     "ignoreFiles": [
-      "assets/css/just-the-docs-default.scss",
-      "assets/css/just-the-docs-light.scss",
-      "assets/css/just-the-docs-dark.scss"
+      "styles/just-the-docs-default.scss",
+      "styles/just-the-docs-light.scss",
+      "styles/just-the-docs-dark.scss"
     ],
     "extends": [
       "stylelint-config-standard-scss"

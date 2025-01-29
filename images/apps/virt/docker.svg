@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 81.085997 63.999997"
+   version="1.1"
+   sodipodi:docname="docker.svg"
+   width="81.085999"
+   height="64"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8244261"
+     inkscape:cx="378.20112"
+     inkscape:cy="298.45001"
+     inkscape:window-width="2560"
+     inkscape:window-height="1300"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 79.768406,26.295855 C 77.780536,24.957742 72.556748,24.386256 68.758994,25.40914 68.554203,21.626397 66.60386,18.438728 63.035558,15.657426 L 61.7146,14.770711 60.834319,16.100247 c -1.730541,2.626905 -2.459641,6.126586 -2.20124,9.307821 0.20372,1.959993 0.885643,4.163377 2.20124,5.762036 -4.942871,2.867079 -9.498674,2.21625 -29.675449,2.21625 H 0.00699367 c -0.09113752,4.555804 0.64117925,13.320016 6.21450663,20.454476 0.6154463,0.788071 1.2909362,1.55041 2.023253,2.284871 4.5311427,4.537576 11.3771787,7.864632 21.6146027,7.874282 15.617754,0.01394 28.998887,-8.42754 37.138003,-28.839128 2.678371,0.04396 9.748498,0.480348 13.208507,-6.205929 0.0847,-0.112582 0.880282,-1.773429 0.880282,-1.773429 L 79.767334,26.294783 Z M 20.337094,22.129262 H 11.57717 v 8.759924 h 8.759924 z m 11.317135,0 h -8.759924 v 8.759924 h 8.759924 z m 11.317136,0 h -8.759924 v 8.759924 h 8.759924 z m 11.317135,0 h -8.759924 v 8.759924 H 54.2885 Z m -45.2685417,0 H 0.26003431 v 8.759924 H 9.0199583 Z M 20.337094,11.065167 H 11.57717 v 8.759924 h 8.759924 z m 11.317135,0 h -8.759924 v 8.759924 h 8.759924 z m 11.317136,0 h -8.759924 v 8.759924 h 8.759924 z M 42.971365,0 h -8.759924 v 8.7599239 h 8.759924 z"
+     id="path1" />
+</svg>

@@ -3,14 +3,14 @@ namespace :search do
   task :init do
     puts 'Creating search data json file...'
     mkdir_p 'assets/js'
-    touch 'assets/js/zzzz-search-data.json'
+    touch 'scripts/zzzz-search-data.json'
     puts 'Done.'
     puts 'Generating content...'
 
-    File.open('assets/js/zzzz-search-data.json', 'w') do |f|
+    File.open('scripts/zzzz-search-data.json', 'w') do |f|
       f.puts '---
 layout: null
-permalink: /assets/js/search-data.json
+permalink: /scripts/search-data.json
 ---
 {
 {%- assign i = 0 -%}

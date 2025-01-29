@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 86.236 64"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="gimp.svg"
+   width="86.236"
+   height="64"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.5078125"
+     inkscape:cx="63.94123"
+     inkscape:cy="64"
+     inkscape:window-width="2560"
+     inkscape:window-height="1300"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <radialGradient
+     id="gimp-original-a"
+     cx="359.38199"
+     cy="134.83"
+     r="50.57"
+     gradientTransform="matrix(0.68133788,0,0,-0.29638198,-202.98736,84.093337)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop2" />
+  </radialGradient>
+  <path
+     fill="url(#gimp-original-a)"
+     d="m 76.344145,44.154672 c 0,8.244188 -15.398236,14.989433 -34.475697,14.989433 -19.077461,0 -34.4756972,-6.677111 -34.4756972,-14.989433 0,-8.312322 15.3982362,-14.989434 34.4756972,-14.989434 19.077461,0 34.475697,6.677112 34.475697,14.989434 z"
+     id="path2"
+     style="fill:url(#gimp-original-a);stroke-width:0.681338" />
+  <radialGradient
+     id="gimp-original-b"
+     cx="201.74899"
+     cy="230.895"
+     r="53.284"
+     gradientTransform="matrix(1.2080121,0,0,-0.88369523,-214.20559,229.93371)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#857C63"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#221F19"
+       id="stop4" />
+  </radialGradient>
+  <path
+     fill="url(#gimp-original-b)"
+     stroke="#2e3436"
+     stroke-miterlimit="10"
+     d="m 17.817221,7.3624257 c 0,0 5.450703,11.1739413 18.123588,10.9014063 C 62.58112,17.582494 67.214217,3.6832017 67.895555,1.7073217 68.576893,-0.26855826 69.5989,0.00397674 69.803301,1.8435887 78.456292,80.606249 9.5730315,46.81189 7.1202156,33.389533 20.815108,29.437774 17.476552,21.738656 17.476552,21.738656 Z"
+     id="path4"
+     style="fill:url(#gimp-original-b);stroke-width:0.681338" />
+  <linearGradient
+     id="gimp-original-c"
+     gradientUnits="userSpaceOnUse"
+     x1="378.84399"
+     y1="204.625"
+     x2="347.98401"
+     y2="198.502"
+     gradientTransform="matrix(0.68133788,0,0,-0.68133788,-205.68682,178.88652)">
+    <stop
+       offset="0"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop6" />
+  </linearGradient>
+  <path
+     fill="url(#gimp-original-c)"
+     d="m 27.901022,40.611715 c 12.741018,2.52095 19.213728,0.204401 22.961086,-2.725352 -1.022007,-1.294542 -2.725351,-2.725351 -2.725351,-2.725351 0,0 4.428696,1.226408 5.995773,3.270422 1.567077,2.044013 0.613204,3.270421 0.204401,5.859505 -0.885739,-2.248415 -2.589084,-3.134154 -2.861619,-4.019893 -3.338555,4.701231 -11.855279,4.49683 -23.57429,0.340669 z"
+     id="path6"
+     style="fill:url(#gimp-original-c);stroke-width:0.681338" />
+  <linearGradient
+     id="gimp-original-d"
+     gradientUnits="userSpaceOnUse"
+     x1="348.04599"
+     y1="240.776"
+     x2="413.38599"
+     y2="166.604"
+     gradientTransform="matrix(0.68133788,0,0,-0.68133788,-203.07252,178.65077)">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop8" />
+  </linearGradient>
+  <path
+     opacity="0.185"
+     stroke="url(#gimp-original-d)"
+     stroke-miterlimit="10"
+     d="m 68.031823,6.2041517 c -1.090141,1.771478 -2.657218,3.8154923 -5.041901,5.8595063 -4.973766,4.088027 -13.286088,7.835385 -26.98098,8.176054 -7.971653,0.204402 -13.149821,-3.679224 -16.283975,-7.085914 l -0.204401,8.44859 c 0.272535,0.817605 0.817605,2.657218 -0.136268,5.110034 -0.953873,2.725352 -4.088027,5.450703 -9.4024635,7.562851 0.4769375,0.953873 0.9538735,1.975879 2.3846835,3.338555 1.907746,1.907746 4.633097,3.95176 7.835385,5.791372 6.404577,3.679225 14.716899,6.608978 22.484151,6.745245 7.767251,0.136268 14.853165,-2.316549 19.690664,-9.470596 4.428697,-6.540844 6.949647,-17.578518 5.655105,-34.4756973 z"
+     fill="none"
+     id="path8"
+     style="stroke:url(#gimp-original-d);stroke-width:0.681338" />
+  <radialGradient
+     id="gimp-original-e"
+     cx="259.173"
+     cy="242.80901"
+     r="9.7410002"
+     gradientTransform="matrix(1.1480543,0,0,-1.1480543,-273.52218,297.54696)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop9" />
+    <stop
+       offset="1"
+       stop-color="#B9B9B0"
+       id="stop10" />
+  </radialGradient>
+  <path
+     fill="url(#gimp-original-e)"
+     stroke="#888a85"
+     stroke-width="0.783"
+     stroke-miterlimit="10"
+     d="m 31.64838,24.259606 c 0,4.224295 -3.40669,7.699118 -7.699118,7.699118 -4.292429,0 -7.699118,-3.40669 -7.699118,-7.699118 0,-4.292429 3.406689,-7.699118 7.699118,-7.699118 4.292428,0 7.699118,3.406689 7.699118,7.699118 z"
+     id="path10"
+     style="fill:url(#gimp-original-e)" />
+  <radialGradient
+     id="gimp-original-f"
+     cx="274.25201"
+     cy="84.307999"
+     r="13.387"
+     gradientTransform="matrix(0.54302629,-0.31341542,-0.36587844,-0.63432557,-111.49118,167.40529)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#5B676B"
+       id="stop11" />
+    <stop
+       offset="1"
+       stop-color="#141718"
+       id="stop12" />
+  </radialGradient>
+  <path
+     fill="url(#gimp-original-f)"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     d="M 16.386411,27.121225 C 20.13377,32.299393 20.13377,38.567701 16.522679,41.224919 12.843454,43.882137 6.8476805,41.838123 3.1684559,36.659955 -0.57890245,31.481787 -0.57890245,25.213479 3.0321883,22.556261 6.6432791,19.899043 12.639053,21.943057 16.386411,27.121225 Z"
+     id="path12"
+     style="fill:url(#gimp-original-f);stroke-width:0.681338" />
+  <path
+     fill="#2e3436"
+     stroke="#000000"
+     stroke-width="1.174"
+     stroke-miterlimit="10"
+     d="m 29.468099,25.349746 c 0,2.044014 -1.635211,3.679225 -3.679225,3.679225 -2.044014,0 -3.679224,-1.635211 -3.679224,-3.679225 0,-2.044013 1.63521,-3.679224 3.679224,-3.679224 2.044014,0 3.679225,1.635211 3.679225,3.679224 z"
+     id="path13" />
+  <linearGradient
+     id="gimp-original-g"
+     gradientUnits="userSpaceOnUse"
+     x1="230.297"
+     y1="47.32"
+     x2="229.46001"
+     y2="25.884001"
+     gradientTransform="matrix(0.54414063,-0.41003937,-0.41003937,-0.54414063,-100.91024,146.75771)">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop13" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop14" />
+  </linearGradient>
+  <path
+     opacity="0.281"
+     stroke="url(#gimp-original-g)"
+     stroke-miterlimit="10"
+     d="m 3.6453924,24.259606 c -1.1582744,0.885739 -1.8396123,2.452816 -1.7714785,4.49683 0.068134,2.044013 0.8857393,4.633097 2.589084,6.881512 1.7033447,2.248415 3.8836259,3.747359 5.8595061,4.360563 1.97588,0.613204 3.611091,0.476936 4.837499,-0.476937 1.226408,-0.885739 1.839612,-2.52095 1.771479,-4.564964 -0.06813,-2.044013 -0.817606,-4.564963 -2.520951,-6.813378 C 12.707187,25.894817 10.595039,24.464007 8.5510252,23.782669 6.5751453,23.169465 4.8718006,23.373866 3.6453924,24.259606 Z"
+     fill="none"
+     id="path14"
+     style="stroke:url(#gimp-original-g);stroke-width:0.681338" />
+  <path
+     fill="#ffffff"
+     d="m 9.232363,27.734429 c 0,2.180281 -1.4989433,4.019893 -3.3385556,4.019893 -1.8396123,0 -3.3385556,-1.771478 -3.3385556,-4.019893 0,-2.180281 1.4989433,-4.019894 3.3385556,-4.019894 1.8396123,0 3.3385556,1.839613 3.3385556,4.019894 z m 17.646652,-4.088027 c 0,1.430809 -1.158275,2.589084 -2.589084,2.589084 -1.43081,0 -2.589084,-1.158275 -2.589084,-2.589084 0,-1.43081 1.158274,-2.589084 2.589084,-2.589084 1.498943,0.06813 2.589084,1.226408 2.589084,2.589084 z"
+     id="path15"
+     style="stroke-width:0.681338" />
+  <radialGradient
+     id="gimp-original-h"
+     cx="238.588"
+     cy="244.87199"
+     r="9.7410002"
+     gradientTransform="matrix(1.3476863,0,0,-1.3476863,-281.6703,348.69431)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop15" />
+    <stop
+       offset="1"
+       stop-color="#B9B9B0"
+       id="stop16" />
+  </radialGradient>
+  <path
+     fill="url(#gimp-original-h)"
+     stroke="#888a85"
+     stroke-width="0.667"
+     stroke-miterlimit="10"
+     d="m 48.818094,25.077211 c 0,4.973767 -4.019893,8.99366 -8.99366,8.99366 -4.973766,0 -8.99366,-4.019893 -8.99366,-8.99366 0,-4.973766 4.019894,-8.99366 8.99366,-8.99366 4.973767,0 8.99366,4.019894 8.99366,8.99366 z"
+     id="path16"
+     style="fill:url(#gimp-original-h)" />
+  <path
+     fill="#2e3436"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     d="m 46.297144,26.371753 c 0,2.384683 -1.97588,4.360563 -4.360562,4.360563 -2.384683,0 -4.360563,-1.97588 -4.360563,-4.360563 0,-2.384682 1.97588,-4.360562 4.360563,-4.360562 2.384682,0.06813 4.360562,1.97588 4.360562,4.360562 z"
+     id="path17"
+     style="stroke-width:0.681338" />
+  <path
+     fill="#ffffff"
+     d="m 43.299258,24.395873 c 0,1.635211 -1.362676,2.997887 -2.997887,2.997887 -1.635211,0 -2.997887,-1.362676 -2.997887,-2.997887 0,-1.635211 1.362676,-2.997886 2.997887,-2.997886 1.635211,0 2.997887,1.362675 2.997887,2.997886 z"
+     id="path18"
+     style="stroke-width:0.681338" />
+  <g
+     transform="matrix(-0.07835386,-0.26572177,0.26572177,-0.07835386,16.464765,8.7857407)"
+     id="g30">
+    <linearGradient
+       id="gimp-original-i"
+       gradientUnits="userSpaceOnUse"
+       x1="1581.422"
+       y1="-398.27399"
+       x2="1555.752"
+       y2="-420.60001"
+       gradientTransform="matrix(-0.115,0.39,0.39,0.115,175.179,-456.047)">
+      <stop
+         offset="0"
+         stop-color="#6E3D09"
+         id="stop18" />
+      <stop
+         offset=".242"
+         stop-color="#EA8113"
+         id="stop19" />
+      <stop
+         offset=".621"
+         stop-color="#5C3307"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#E07C12"
+         id="stop21" />
+    </linearGradient>
+    <path
+       fill="url(#gimp-original-i)"
+       stroke="#673907"
+       stroke-width="2.461"
+       stroke-linecap="round"
+       d="m -201.5,132 10.3,9.6 c 23.1,-17.7 47.4,-55.7 47.4,-55.7 5.5,-6.2 -0.3,-10.4 -6,-6.6 0,0 -36,28 -51.7,52.7 z"
+       id="path21"
+       style="fill:url(#gimp-original-i)" />
+    <linearGradient
+       id="gimp-original-j"
+       gradientUnits="userSpaceOnUse"
+       x1="1691.417"
+       y1="-496.24301"
+       x2="1701.71"
+       y2="-486.71799"
+       gradientTransform="matrix(-0.115,0.39,0.39,0.115,178.077,-459.728)">
+      <stop
+         offset="0"
+         stop-color="#BDBDBD"
+         id="stop22" />
+      <stop
+         offset=".333"
+         stop-color="#E2E2E2"
+         id="stop23" />
+      <stop
+         offset=".667"
+         stop-color="#A3A3A3"
+         id="stop24" />
+      <stop
+         offset="1"
+         stop-color="#ddd"
+         id="stop25" />
+    </linearGradient>
+    <path
+       fill="url(#gimp-original-j)"
+       stroke="#888a85"
+       stroke-width="2.461"
+       stroke-linecap="round"
+       d="m -221.1,157.6 6.2,5.4 23.5,-20.4 0.8,-2 h 3 c -1.2,-4.3 -8.2,-12.1 -13.3,-12.1 l 0.2,3 -1.9,1.1 z"
+       id="path25"
+       style="fill:url(#gimp-original-j)" />
+    <path
+       stroke="#ffffff"
+       stroke-width="2.461"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m -202.7,145.3 -12.1,14.6"
+       fill="none"
+       id="path26" />
+    <radialGradient
+       id="gimp-original-k"
+       cx="958.40601"
+       cy="-380.26199"
+       r="21.002001"
+       gradientTransform="matrix(-0.181,0.598,0.613,0.176,183.272,-348.089)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#696969"
+         id="stop26" />
+      <stop
+         offset="1"
+         id="stop27" />
+    </radialGradient>
+    <path
+       fill="url(#gimp-original-k)"
+       d="m -262.4,185.2 c 28.9,0 50.9,3.4 55.1,-17.6 3.4,-17 -20,-25.1 -31.5,-10 -11.2,14.6 -23.6,27.6 -23.6,27.6 z"
+       id="path27"
+       style="fill:url(#gimp-original-k)" />
+    <path
+       opacity="0.528"
+       fill="#ffffff"
+       d="m -209.8,168.2 c 0,4 -3.2,7.2 -7.2,7.2 -4,0 -7.2,-3.2 -7.2,-7.2 0,-4 3.2,-7.2 7.2,-7.2 4,0 7.2,3.2 7.2,7.2 z"
+       id="path28" />
+    <path
+       fill="#ffffff"
+       d="m -191.2,141.1 c 0,2.7 -2.2,4.8 -4.8,4.8 -2.6,0 -4.8,-2.2 -4.8,-4.8 0,-2.7 2.2,-4.8 4.8,-4.8 2.6,-0.1 4.8,2.1 4.8,4.8 z"
+       id="path29" />
+    <linearGradient
+       id="gimp-original-l"
+       gradientUnits="userSpaceOnUse"
+       x1="2046.356"
+       y1="702.98499"
+       x2="2031.16"
+       y2="715.53699"
+       gradientTransform="matrix(-0.241,0.249,0.249,0.241,95.193,-501.932)">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop30" />
+    </linearGradient>
+    <path
+       opacity="0.428"
+       fill="url(#gimp-original-l)"
+       d="m -243.6,180 c 0,0 10.3,0.3 16.9,-3.9 2.3,-1.5 4.2,1.8 1.4,3 -6.1,2.6 -18.3,0.9 -18.3,0.9 z"
+       id="path30"
+       style="fill:url(#gimp-original-l)" />
+  </g>
+  <linearGradient
+     id="gimp-original-m"
+     gradientUnits="userSpaceOnUse"
+     x1="367.72299"
+     y1="202.12801"
+     x2="362.64099"
+     y2="200.90401"
+     gradientTransform="matrix(0.68133788,0,0,-0.68133788,-203.07252,178.65077)">
+    <stop
+       offset="0"
+       id="stop31" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop32" />
+  </linearGradient>
+  <path
+     fill="url(#gimp-original-m)"
+     d="m 41.664047,43.745869 c 2.793485,0.272535 5.382569,-0.54507 6.47271,-0.885739 0.204401,-1.022007 1.022006,-3.066021 3.883626,-3.202288 l -1.022007,-1.771479 c 0,0 -3.679225,2.52095 -7.699118,3.270422 z"
+     id="path32"
+     style="fill:url(#gimp-original-m);stroke-width:0.681338" />
+</svg>

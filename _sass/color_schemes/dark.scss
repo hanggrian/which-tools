@@ -1,12 +1,14 @@
+// https://m2.material.io/design/color/dark-theme.html
+
 $color-scheme: dark;
-$body-background-color: $grey-dk-300;
+$body-background-color: /*$grey-dk-300*/ #121212;
 $body-heading-color: $grey-lt-000;
 $body-text-color: $grey-lt-300;
-$link-color: $blue-000;
+$link-color: /*$blue-000*/ #bb86fc;
 $nav-child-link-color: $grey-dk-000;
 $sidebar-color: $grey-dk-300;
 $base-button-color: $grey-dk-250;
-$btn-primary-color: $blue-200;
+$btn-primary-color: /*$blue-200*/ #018786;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
