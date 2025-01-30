@@ -88,7 +88,7 @@ nav_order: 3
   <table>
     <thead>
       <tr>
-        <th style="text-align: center; width: 280px;">Consider</th>
+        <th style="text-align: center; width: 280px;">Avoid</th>
         <th style="text-align: center;">Why</th>
       </tr>
     </thead>
@@ -101,7 +101,7 @@ nav_order: 3
             src="../../../images/apps/graphics/adobe_photoshop.svg"/>
         </td>
         <td style="text-align: left;">
-          Best-in-class editors do not come cheap.
+          Requires a subscription.
         </td>
       </tr>
       <tr>
@@ -165,12 +165,12 @@ nav_order: 3
       <tr>
         <td style="text-align: center;">
           <img
-            alt="Sketch"
-            title="Sketch"
-            src="../../../images/apps/graphics/sketch.svg"/>
+            alt="Adobe XD"
+            title="Adobe XD"
+            src="../../../images/apps/graphics/adobe_xd.svg"/>
         </td>
         <td style="text-align: left;">
-          Sketch is only available on macOS.
+          Requires a subscription.
         </td>
       </tr>
       <tr>
@@ -180,12 +180,12 @@ nav_order: 3
       <tr>
         <td style="text-align: center;">
           <img
-            alt="Adobe XD"
-            title="Adobe XD"
-            src="../../../images/apps/graphics/adobe_xd.svg"/>
+            alt="Sketch"
+            title="Sketch"
+            src="../../../images/apps/graphics/sketch.svg"/>
         </td>
         <td style="text-align: left;">
-          Best-in-class editors do not come cheap.
+          Sketch is only available on macOS.
         </td>
       </tr>
     </tbody>
@@ -198,7 +198,7 @@ nav_order: 3
   <table>
     <thead>
       <tr>
-        <th style="text-align: center; width: 280px;">Consider</th>
+        <th style="text-align: center; width: 280px;">Avoid</th>
         <th style="text-align: center;">Why</th>
       </tr>
     </thead>
@@ -216,7 +216,7 @@ nav_order: 3
             src="../../../images/apps/graphics/adobe_indesign.svg"/>
         </td>
         <td style="text-align: left;">
-          Best-in-class editors do not come cheap.
+          Requires a subscription.
         </td>
       </tr>
       <tr>

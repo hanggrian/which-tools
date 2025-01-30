@@ -98,62 +98,13 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
   </table>
 </div>
 
-## Comparison, diff, merge
-
-<div class="code-example" markdown="1">
-  <table>
-    <thead>
-      <tr>
-        <th style="text-align: center; width: 280px;">Prefer</th>
-        <th style="text-align: center;">Why</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="Meld"
-            title="Meld"
-            src="../../../images/apps/code/meld.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Meld compares files, directories and recognizes Git repositories.
-          <ul>
-            <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/any/meld">
-                meld
-              </a>
-            </li>
-            <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/cask/dehesselle-meld">
-                meld<sup>BREW</sup>
-              </a>
-            </li>
-            <li>
-              <a
-                class="label label-red"
-                href="https://winget.run/pkg/Meld/Meld">
-                Meld.Meld
-              </a>
-            </li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 ## Text editors
 
 <div class="code-example" markdown="1">
   <table>
     <thead>
       <tr>
-        <th style="text-align: center; width: 280px;">Avoid</th>
+        <th style="text-align: center; width: 280px;">Consider</th>
         <th style="text-align: center;">Why</th>
       </tr>
     </thead>
@@ -161,51 +112,18 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
       <tr>
         <td style="text-align: center;">
           <img
-            alt="Vim"
-            title="Vim"
-            src="../../../images/apps/code/vim.svg"/>
+            alt="gedit"
+            title="gedit"
+            src="../../../images/apps/code/gedit.svg"/>
         </td>
         <td style="text-align: left;">
-          Although extremely customizable, Vim requires steep learning curve.
+          gedit picks up existing dictionaries to perform spell checking, part
+          of GNOME.
         </td>
       </tr>
       <tr>
         <td style="text-align: center;"><b>Prefer</b></td>
         <td style="text-align: center;"><b>Why</b></td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="nano"
-            title="nano"
-            src="../../../images/apps/code/nano.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Nano is beginner-friendly and pre-installed on most UNIX systems.
-          <ul>
-            <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/core/x86_64/nano">
-                nano
-              </a>
-            </li>
-            <li>
-              <a
-                class="label label-purple"
-                href="https://support.apple.com/guide/terminal/use-command-line-text-editors-apdb02f1133-25af-4c65-8976-159609f99817/mac/">
-                nano
-              </a>
-            </li>
-            <li>
-              <a
-                class="label label-red"
-                href="https://github.com/okibcn/nano-for-windows/">
-                nano-for-windows<sup>SOURCE</sup>
-              </a>
-            </li>
-          </ul>
-        </td>
       </tr>
       <tr>
         <td style="text-align: center;">
@@ -220,8 +138,8 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
             src="../../../images/apps/code/visual_studio_code.svg"/>
         </td>
         <td style="text-align: left;">
-          Visual Studio Code is a decent text editor with many extensions and
-          cloud saving to preserve user settings.
+          Visual Studio Code has a healthy amount of extensions and integrates
+          with GitHub Copilot.
           <ul>
             <li>
               <a

@@ -10,7 +10,7 @@ nav_order: 5
 
 You can always dual-boot if virtualization is not your thing.
 
-## Containment
+## Containers
 
 <div class="code-example" markdown="1">
   <table>
@@ -31,10 +31,6 @@ You can always dual-boot if virtualization is not your thing.
         <td style="text-align: left;">
           LXC is lesser known, most noticably used by Proxmox.
         </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><b>Consider</b></td>
-        <td style="text-align: center;"><b>Why</b></td>
       </tr>
       <tr>
         <td style="text-align: center;">

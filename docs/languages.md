@@ -104,8 +104,9 @@ nav_order: 3
 ## Java
 
 [Which Version of JDK Should I Use?](https://whichjdk.com/)
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
+<p>
 <div class="code-example" markdown="1">
   <table>
     <thead>
@@ -195,6 +196,7 @@ nav_order: 3
     </tbody>
   </table>
 </div>
+</p>
 
 ### Version managers
 

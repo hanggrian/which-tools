@@ -1,18 +1,19 @@
-// https://m2.material.io/design/color/dark-theme.html
+// https://m3.material.io/styles/color/static/baseline/
 
 $color-scheme: light !default;
 $body-background-color: $white !default;
 $body-heading-color: $grey-dk-300 !default;
 $body-text-color: $grey-dk-100 !default;
-$link-color: /*$purple-000 !default*/ #3700b3;
+$link-color: /*$purple-000*/ #65558f !default; /* Primary */
+$link-color2: /*$blue-000*/ $white; /* On primary */
 $nav-child-link-color: $grey-dk-100 !default;
-$sidebar-color: $grey-lt-000 !default;
-$base-button-color: #f7f7f7 !default;
-$btn-primary-color: /*$purple-100 !default*/ #03dac6;
+$sidebar-color: /*$grey-lt-000*/ #f3f2f6 !default;
+$base-button-color: #65558f !default;
+$btn-primary-color: /*$purple-100 !default*/ #65558f;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
-$table-background-color: $white !default;
-$search-background-color: $white !default;
+$table-background-color: /*$white*/ #f3f2f6 !default;
+$search-background-color: /*$white*/ #f3f2f6 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 
 @import "./vendor/OneLightJekyll/syntax";

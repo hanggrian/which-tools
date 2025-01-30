@@ -32,7 +32,7 @@ Passing through a GPU allows for gaming and other graphics-intensive tasks in a
 virtual machine.
 
 [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF)
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ## VM management
 

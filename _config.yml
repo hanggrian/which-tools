@@ -16,7 +16,7 @@
 title: Which tools
 description: Personal selection of programming languages and supporting applications
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hanggrian.github.io/which-tools" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hanggrian.github.io/which-tools/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: hanggrian/which-tools # for github-metadata
 
 permalink: pretty
@@ -111,7 +111,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "About me":
-    - "https://hanggrian.github.io/which-tools/"
+    - "https://hanggrian.github.io/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

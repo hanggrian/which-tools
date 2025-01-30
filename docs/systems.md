@@ -69,8 +69,9 @@ distros come with a package manager.
 ### Upstream distros
 
 [ArchWiki](https://wiki.archlinux.org/)
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
+<p>
 <div class="code-example" markdown="1">
   <table>
     <thead>
@@ -134,6 +135,7 @@ distros come with a package manager.
     </tbody>
   </table>
 </div>
+</p>
 
 {: .note }
 > Arch Linux gets a bad reputation for being difficult to install, but this is
@@ -143,8 +145,9 @@ distros come with a package manager.
 ### Downstream distros
 
 [Please don't theme our apps](https://stopthemingmy.app/)
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
+<p>
 <div class="code-example" markdown="1">
   <table>
     <thead>
@@ -311,6 +314,7 @@ distros come with a package manager.
     </tbody>
   </table>
 </div>
+</p>
 
 ### Desktop environments
 
@@ -368,7 +372,7 @@ distros come with a package manager.
             src="../../images/systems/gnome.svg"/>
         </td>
         <td style="text-align: left;">
-          GNOME is pretty out of the box.
+          GNOME has a cleaner interface but requires extensions to be usable.
         </td>
       </tr>
     </tbody>
@@ -386,8 +390,9 @@ applications from the command line.
 ### Bootloaders
 
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
+<p>
 <div class="code-example" markdown="1">
   <table>
     <thead>
@@ -437,6 +442,7 @@ applications from the command line.
     </tbody>
   </table>
 </div>
+</p>
 
 ## Windows
 
@@ -464,7 +470,7 @@ Windows comes with `winget` package manager.
         </td>
       </tr>
       <tr>
-        <td style="text-align: center;"><b>Prefer</b></td>
+        <td style="text-align: center;"><b>Consider</b></td>
         <td style="text-align: center;"><b>Why</b></td>
       </tr>
       <tr>
@@ -475,14 +481,30 @@ Windows comes with `winget` package manager.
             src="../../images/systems/windows.svg"/>
         </td>
         <td style="text-align: left;">
-          Installing Windows 11 in a virtual machine requires OMVF firmware
-          implementation.
+          Plain Windows is very bloated, requires an online account to sign up
+          and automatically logs in to OneDrive.
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><b>Prefer</b></td>
+        <td style="text-align: center;"><b>Why</b></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <img
+            alt="Tiny11"
+            title="Tiny11"
+            src="../../images/systems/tiny11.png"/>
+        </td>
+        <td style="text-align: left;">
+          Build your own Windows ISO with PowerShell scripts, does not remove
+          security features and Windows Update.
           <ul>
             <li>
               <a
-                class="label label-blue"
-                href="https://www.microsoft.com/en-us/software-download/windows11/">
-                ISO
+                class="label label-green"
+                href="https://github.com/ntdevlabs/tiny11builder/releases/latest/">
+                ZIP
               </a>
             </li>
           </ul>
