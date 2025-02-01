@@ -20,6 +20,9 @@ nav_order: 3
 
 ## Ruby
 
+[ArchWiki](https://wiki.archlinux.org/title/Ruby)
+{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ### Version managers
 
 <div class="code-example" markdown="1">
@@ -36,7 +39,7 @@ nav_order: 3
           <img
             alt="asdf-vm"
             title="asdf-vm"
-            src="../../images/languages/asdf_vm.png"/>
+            src="../../images/languages_asdf_vm.png"/>
         </td>
         <td style="text-align: left;">
           asdf-vm is a universal version manager that supports multiple
@@ -49,10 +52,12 @@ nav_order: 3
       </tr>
       <tr>
         <td style="text-align: center;">
-          <img
-            alt="rvm"
-            title="rvm"
-            src="../../images/languages/rvm.png"/>
+          <a href="https://wiki.archlinux.org/title/RVM">
+            <img
+              alt="RVM"
+              title="RVM"
+              src="../../images/languages_rvm.png"/>
+          </a>
         </td>
         <td style="text-align: left;">
           RVM and chruby are extensive but ship with shell modifications.
@@ -64,33 +69,29 @@ nav_order: 3
       </tr>
       <tr>
         <td style="text-align: center;">
-          <img
-            alt="rbenv"
-            title="rbenv"
-            src="../../images/languages/rbenv.png"/>
+          <a href="https://wiki.archlinux.org/title/rbenv">
+            <img
+              alt="rbenv"
+              title="rbenv"
+              src="../../images/languages_rbenv.png"/>
+          </a>
         </td>
         <td style="text-align: left;">
           rbenv sets the Ruby version globally per user or localler per
           directory.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/any/rbenv">
+              <a href="https://archlinux.org/packages/extra/any/rbenv">
                 rbenv
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/formula/rbenv">
+              <a href="https://formulae.brew.sh/formula/rbenv">
                 rbenv<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://github.com/RubyMetric/rbenv-for-windows/">
+              <a href="https://github.com/RubyMetric/rbenv-for-windows/">
                 rbenv-for-windows<sup>SOURCE</sup>
               </a>
             </li>
@@ -103,10 +104,12 @@ nav_order: 3
 
 ## Java
 
-[Which Version of JDK Should I Use?](https://whichjdk.com/)
-{: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[ArchWiki](https://wiki.archlinux.org/title/Java)
+{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-<p>
+[Which Version of JDK Should I Use?](https://whichjdk.com/)
+{: .btn .btn-outline .fs-5 .mb-4 }
+
 <div class="code-example" markdown="1">
   <table>
     <thead>
@@ -121,12 +124,12 @@ nav_order: 3
           <img
             alt="OpenJDK"
             title="OpenJDK"
-            src="../../images/languages/openjdk.svg"/>
+            src="../../images/languages_openjdk.svg"/>
           &emsp;
           <img
             alt="Oracle Java"
             title="Oracle Java"
-            src="../../images/languages/oracle_java.svg"/>
+            src="../../images/languages_oracle_java.svg"/>
         </td>
         <td style="text-align: left;">
           Oracle JDK is no longer free for commercial use while OpenJDK update
@@ -142,12 +145,12 @@ nav_order: 3
           <img
             alt="Liberica"
             title="Liberica"
-            src="../../images/languages/liberica.svg"/>
+            src="../../images/languages_liberica.svg"/>
           &emsp;
           <img
             alt="Zulu"
             title="Zulu"
-            src="../../images/languages/zulu.svg"/>
+            src="../../images/languages_zulu.svg"/>
         </td>
         <td style="text-align: left;">
           Bellsoft and Zulu provide OpenJFX binaries for JavaFX developers.
@@ -163,30 +166,24 @@ nav_order: 3
           <img
             alt="Temurin"
             title="Temurin"
-            src="../../images/languages/temurin.svg"/>
+            src="../../images/languages_temurin.svg"/>
         </td>
         <td style="text-align: left;">
           Maintained by Eclipse Foundation with timely updates, LTS releases
           and free for commercial use.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://aur.archlinux.org/packages/jdk-temurin">
+              <a href="https://aur.archlinux.org/packages/jdk-temurin">
                 jdk-temurin<sup>AUR</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/cask/temurin">
+              <a href="https://formulae.brew.sh/cask/temurin">
                 temurin<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://winget.run/pkg/EclipseAdoptium/Temurin.19.JRE">
+              <a href="https://winget.run/pkg/EclipseAdoptium/Temurin.19.JRE">
                 EclipseAdoptium.Temurin.19.JRE
               </a>
             </li>
@@ -196,9 +193,12 @@ nav_order: 3
     </tbody>
   </table>
 </div>
-</p>
 
 ### Version managers
+
+{: .new }
+> In a Gradle project, the modern solution to lock specific Java versions is by
+  using the [Toolchains](https://docs.gradle.org/current/userguide/toolchains.html).
 
 <div class="code-example" markdown="1">
   <table>
@@ -214,7 +214,7 @@ nav_order: 3
           <img
             alt="SDKMAN!"
             title="SDKMAN!"
-            src="../../images/languages/sdkman.svg"/>
+            src="../../images/languages_sdkman.svg"/>
         </td>
         <td style="text-align: left;">
           SDKMAN! is a universal version manager that supports multiple
@@ -230,15 +230,13 @@ nav_order: 3
           <img
             alt="Java Runtime"
             title="Java Runtime"
-            src="../../images/languages/java_runtime.svg"/>
+            src="../../images/languages_java_runtime.svg"/>
         </td>
         <td style="text-align: left;">
           Specific Java switcher command for Arch Linux.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/any/java-runtime-common">
+              <a href="https://archlinux.org/packages/extra/any/java-runtime-common">
                 java-runtime-common
               </a>
             </li>
@@ -250,6 +248,9 @@ nav_order: 3
 </div>
 
 ## Python
+
+[ArchWiki](https://wiki.archlinux.org/title/Python)
+{: .btn .btn-primary .fs-5 .mb-4 .mr-2 }
 
 <div class="code-example" markdown="1">
   <table>
@@ -265,7 +266,7 @@ nav_order: 3
           <img
             alt="Anaconda"
             title="Anaconda"
-            src="../../images/languages/anaconda.svg"/>
+            src="../../images/languages_anaconda.svg"/>
         </td>
         <td style="text-align: left;">
           Anaconda allows users to install packages with dependencies but comes
@@ -282,29 +283,23 @@ nav_order: 3
           <img
             alt="Python"
             title="Python"
-            src="../../images/languages/python.svg"/>
+            src="../../images/languages_python.svg"/>
         </td>
         <td style="text-align: left;">
           Use the official Python distribution with PIP to install packages.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/core/x86_64/python">
+              <a href="https://archlinux.org/packages/core/x86_64/python">
                 python
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/formula/python@3.13">
+              <a href="https://formulae.brew.sh/formula/python@3.13">
                 python@3.13<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://winget.run/pkg/Python/Python.3.11">
+              <a href="https://winget.run/pkg/Python/Python.3.11">
                 Python.Python.3.11
               </a>
             </li>

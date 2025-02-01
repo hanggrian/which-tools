@@ -34,7 +34,7 @@ nav_order: 2
           <img
             alt="Travis CI"
             title="Travis CI"
-            src="../../../images/services/integration/travis_ci.svg"/>
+            src="../../../images/services/integration_travis_ci.svg"/>
         </td>
         <td style="text-align: left;">
           The new pricing model of Travis CI is far less permissive for
@@ -50,12 +50,12 @@ nav_order: 2
           <img
             alt="GitHub Actions"
             title="GitHub Actions"
-            src="../../../images/services/integration/github_actions.svg"/>
+            src="../../../images/services/integration_github_actions.svg"/>
           &emsp;
           <img
             alt="GitLab CI/CD"
             title="GitLab CI/CD"
-            src="../../../images/services/integration/gitlab_cicd.svg"/>
+            src="../../../images/services/integration_gitlab_cicd.svg"/>
         </td>
         <td style="text-align: left;">
           Git vendor-specific platforms are more integrated but makes the code
@@ -71,16 +71,14 @@ nav_order: 2
           <img
             alt="CircleCI"
             title="CircleCI"
-            src="../../../images/services/integration/circleci.svg"/>
+            src="../../../images/services/integration_circleci.svg"/>
         </td>
         <td style="text-align: left;">
           CircleCI allows remote Docker images and other pre-built orbs. They
           also allocate monthly free credits for open-source projects.
           <ul>
             <li>
-              <a
-                class="label label-yellow"
-                href="https://circleci.com/">
+              <a href="https://circleci.com/">
                 website
               </a>
             </li>
@@ -107,7 +105,7 @@ nav_order: 2
           <img
             alt="Codacy"
             title="Codacy"
-            src="../../../images/services/integration/codacy.svg"/>
+            src="../../../images/services/integration_codacy.svg"/>
         </td>
         <td style="text-align: left;">
           Codacy is an all-in-one analysis suite, the web interface and
@@ -123,16 +121,14 @@ nav_order: 2
           <img
             alt="Codecov"
             title="Codecov"
-            src="../../../images/services/integration/codecov.svg"/>
+            src="../../../images/services/integration_codecov.svg"/>
         </td>
         <td style="text-align: left;">
           Codecov is straightforward and integrates well with third-party
           CI/CD services.
           <ul>
             <li>
-              <a
-                class="label label-yellow"
-                href="https://about.codecov.io/">
+              <a href="https://about.codecov.io/">
                 website
               </a>
             </li>

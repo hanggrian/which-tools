@@ -7,6 +7,8 @@ nav_order: 4
 
 ---
 
-Apps listed here are cross-platform but not guaranteed to be free or
-open-source. Prefer native widget toolkits over Electron apps for better
-performance.
+Apps listed here are prioritized, but not guaranteed to be:
+
+- Cross-platform (Linux, macOS, Windows)
+- Native widget toolkits (GTK, Qt, etc.)
+- Free and open-source software (FOSS)

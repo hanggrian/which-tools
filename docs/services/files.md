@@ -35,10 +35,10 @@ and let the rest of the world make copies.&#8221; &mdash; Linus Torvalds
           <img
             alt="NFS"
             title="NFS"
-            src="../../../images/services/files/nfs.svg"/>
+            src="../../../images/services/files_nfs.svg"/>
         </td>
         <td style="text-align: left;">
-          Old and reliable, SMB is compatible on all platforms.
+          NFS is poorly supported on Windows.
         </td>
       </tr>
       <tr>
@@ -50,30 +50,24 @@ and let the rest of the world make copies.&#8221; &mdash; Linus Torvalds
           <img
             alt="SMB"
             title="SMB"
-            src="../../../images/services/files/smb.png"/>
+            src="../../../images/services/files_smb.png"/>
         </td>
         <td style="text-align: left;">
           Old and reliable, SMB network shares can be accessed on all platforms.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/x86_64/samba">
+              <a href="https://archlinux.org/packages/extra/x86_64/samba">
                 samba
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://support.apple.com/guide/mac-help/set-up-smb-file-sharing-on-mac-mh14107/mac/">
-                samba
+              <a href="https://support.apple.com/guide/mac-help/set-up-smb-file-sharing-on-mac-mh14107/mac/">
+                SMB
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://learn.microsoft.com/en-us/windows/win32/fileio/microsoft-smb-protocol-and-cifs-protocol-overview/">
-                samba
+              <a href="https://learn.microsoft.com/en-us/windows/win32/fileio/microsoft-smb-protocol-and-cifs-protocol-overview/">
+                SMB and CIFS
               </a>
             </li>
           </ul>

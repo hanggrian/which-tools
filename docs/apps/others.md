@@ -33,12 +33,42 @@ machine!&#8221; &mdash; *Vidiu Platon*
       <tr>
         <td style="text-align: center;">
           <img
-            alt="SourceTree"
-            title="SourceTree"
-            src="../../../images/apps/others/sourcetree.svg"/>
+            alt="GitHub Desktop"
+            title="GitHub Desktop"
+            src="../../../images/apps/others_github_desktop.svg"/>
         </td>
         <td style="text-align: left;">
-          SourceTree does not have a Linux version.
+          GitHub Desktop does not have log graph view to visualize changes by
+          commit.
+          <label class="label label-yellow">Built on Electron</label>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><b>Consider</b></td>
+        <td style="text-align: center;"><b>Why</b></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <img
+            alt="SourceTree"
+            title="SourceTree"
+            src="../../../images/apps/others_sourcetree.svg"/>
+        </td>
+        <td style="text-align: left;">
+          SourceTree has more integration options than GitHub Desktop, including
+          JIRA.
+          <label class="label label-red">No Linux client</label>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <img
+            alt="SmartGit"
+            title="SmartGit"
+            src="../../../images/apps/others_smartgit.png"/>
+        </td>
+        <td style="text-align: left;">
+          SmartGit is free for non-commercial use.
         </td>
       </tr>
       <tr>
@@ -48,32 +78,27 @@ machine!&#8221; &mdash; *Vidiu Platon*
       <tr>
         <td style="text-align: center;">
           <img
-            alt="SmartGit"
-            title="SmartGit"
-            src="../../../images/apps/others/smartgit.png"/>
+            alt="Sublime Merge"
+            title="Sublime Merge"
+            src="../../../images/apps/others_sublime_merge.svg"/>
         </td>
         <td style="text-align: left;">
-          SmartGit is free for non-commercial use.
+          Like Sublime Text, Sublime Merge supports themes and plugins.
+          <label class="label label-purple">Not free</label>
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://aur.archlinux.org/packages/smartgit">
-                smartgit<sup>AUR</sup>
+              <a href="https://aur.archlinux.org/packages/sublime-merge">
+                sublime-merge<sup>AUR</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/cask/smartgit">
-                smartgit<sup>BREW</sup>
+              <a href="https://formulae.brew.sh/cask/sublime-merge">
+                sublime-merge<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://www.syntevo.com/smartgit/download/">
-                SmartGit<sup>ZIP</sup>
+              <a href="https://winget.run/pkg/SublimeHQ/SublimeMerge">
+                SublimeHQ.SublimeMerge
               </a>
             </li>
           </ul>
@@ -96,10 +121,12 @@ machine!&#8221; &mdash; *Vidiu Platon*
     <tbody>
       <tr>
         <td style="text-align: center;">
-          <img
-            alt="Firefox"
-            title="Firefox"
-            src="../../../images/apps/others/firefox.svg"/>
+          <a href="https://wiki.archlinux.org/title/Firefox">
+            <img
+              alt="Firefox"
+              title="Firefox"
+              src="../../../images/apps/others_firefox.svg"/>
+          </a>
         </td>
         <td style="text-align: left;">
           Firefox is the default browser in many Linux distributions.
@@ -111,37 +138,33 @@ machine!&#8221; &mdash; *Vidiu Platon*
       </tr>
       <tr>
         <td style="text-align: center;">
-          <img
-            alt="Chromium"
-            title="Chromium"
-            src="../../../images/apps/others/chromium.svg"/>
+          <a href="https://wiki.archlinux.org/title/Chromium">
+            <img
+              alt="Chromium"
+              title="Chromium"
+              src="../../../images/apps/others_chromium.svg"/>
+          </a>
           &emsp;
           <img
             alt="Google Chrome"
             title="Google Chrome"
-            src="../../../images/apps/others/google_chrome.svg"/>
+            src="../../../images/apps/others_google_chrome.svg"/>
         </td>
         <td style="text-align: left;">
           Google Chrome can save a webpage into a single MHTML file.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://aur.archlinux.org/packages/google-chrome">
-                google-chrome
+              <a href="https://aur.archlinux.org/packages/google-chrome">
+                google-chrome<sup>AUR</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/cask/google-chrome">
+              <a href="https://formulae.brew.sh/cask/google-chrome">
                 google-chrome<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://winget.run/pkg/Google/Chrome">
+              <a href="https://winget.run/pkg/Google/Chrome">
                 Google.Chrome
               </a>
             </li>

@@ -26,10 +26,11 @@ You can always dual-boot if virtualization is not your thing.
           <img
             alt="LXC"
             title="LXC"
-            src="../../../../images/apps/virt/lxc.svg"/>
+            src="../../../images/apps/virtualization/containers_lxc.svg"/>
         </td>
         <td style="text-align: left;">
           LXC is lesser known, most noticably used by Proxmox.
+          <label class="label label-red">No Linux client</label>
         </td>
       </tr>
       <tr>
@@ -37,7 +38,7 @@ You can always dual-boot if virtualization is not your thing.
           <img
             alt="Podman"
             title="Podman"
-            src="../../../../images/apps/virt/podman.svg"/>
+            src="../../../images/apps/virtualization/containers_podman.svg"/>
         </td>
         <td style="text-align: left;">
           Podman is daemonless and compatible with Dockerfiles, default
@@ -53,29 +54,23 @@ You can always dual-boot if virtualization is not your thing.
           <img
             alt="Docker"
             title="Docker"
-            src="../../../../images/apps/virt/docker.svg"/>
+            src="../../../images/apps/virtualization/containers_docker.svg"/>
         </td>
         <td style="text-align: left;">
           Docker is the most popular containerization tool.
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/x86_64/docker">
+              <a href="https://archlinux.org/packages/extra/x86_64/docker">
                 docker
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/formula/docker">
+              <a href="https://formulae.brew.sh/formula/docker">
                 docker<sup>BREW</sup>
               </a>
             </li>
             <li>
-              <a
-                class="label label-red"
-                href="https://winget.run/pkg/Docker/DockerDesktop">
+              <a href="https://winget.run/pkg/Docker/DockerDesktop">
                 Docker.DockerDesktop
               </a>
             </li>

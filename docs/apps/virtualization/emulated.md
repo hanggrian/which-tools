@@ -38,7 +38,7 @@ hardware. They are suitable for light tasks like office work and web browsing.
           <img
             alt="VirtualBox"
             title="VirtualBox"
-            src="../../../../images/apps/virt/virtualbox.svg"/>
+            src="../../../../images/apps/virtualization/emulated_virtualbox.svg"/>
         </td>
         <td style="text-align: left;">
           VirtualBox uses its own hypervisor technology focused on ease of use
@@ -54,28 +54,25 @@ hardware. They are suitable for light tasks like office work and web browsing.
           <img
             alt="GNOME Boxes"
             title="GNOME Boxes"
-            src="../../../../images/apps/virt/gnome_boxes.svg"/>
+            src="../../../../images/apps/virtualization/emulated_gnome_boxes.svg"/>
           &emsp;
           <img
             alt="UTM"
             title="UTM"
-            src="../../../../images/apps/virt/utm.png"/>
+            src="../../../../images/apps/virtualization/emulated_utm.png"/>
         </td>
         <td style="text-align: left;">
           GNOME Boxes and UTM, built on top of QEMU/KVM, can achieve near-native
           performance.
+          <label class="label label-red">No Windows client</label>
           <ul>
             <li>
-              <a
-                class="label label-blue"
-                href="https://archlinux.org/packages/extra/x86_64/gnome-boxes">
+              <a href="https://archlinux.org/packages/extra/x86_64/gnome-boxes">
                 gnome-boxes
               </a>
             </li>
             <li>
-              <a
-                class="label label-purple"
-                href="https://formulae.brew.sh/cask/utm">
+              <a href="https://formulae.brew.sh/cask/utm">
                 utm<sup>BREW</sup>
               </a>
             </li>
