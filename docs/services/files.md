@@ -7,8 +7,9 @@ nav_order: 1
 # Files
 {: .no_toc }
 
-&#8220;Real men don't use backups, they post their stuff on a public ftp server
-and let the rest of the world make copies.&#8221; &mdash; Linus Torvalds
+&ldquo;Real men don't use backups, they post their stuff on a public ftp server
+and let the rest of the world make copies.&rdquo;
+&mdash; Linus Torvalds
 {: .fs-6 .fw-300 }
 
 ## Table of contents

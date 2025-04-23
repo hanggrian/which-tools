@@ -7,7 +7,7 @@ nav_order: 2
 # GPU passthrough
 {: .no_toc }
 
-&#8220;One man’s crappy software is another man&#8217;s full time job.&#8221;
+&ldquo;One man’s crappy software is another man's full time job.&rdquo;
 &mdash; *Jessica Gaston*
 {: .fs-6 .fw-300 }
 

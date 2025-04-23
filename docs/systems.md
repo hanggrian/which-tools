@@ -6,8 +6,9 @@ nav_order: 2
 # Operating systems
 {: .no_toc }
 
-&#8220;UNIX is very simple, it just needs a genius to understand its
-simplicity.&#8221; &mdash; *Dennis Ritchie*
+&ldquo;UNIX is very simple, it just needs a genius to understand its
+simplicity.&rdquo;
+&mdash; *Dennis Ritchie*
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -24,76 +25,7 @@ There are many other upstream distributions like Slackware and Gentoo. But for
 the purpose of this guide, only the most popular ones are listed. All Linux
 distros come with a package manager.
 
-### Upstream distros
-
-<div class="code-example" markdown="1">
-  <table>
-    <thead>
-      <tr>
-        <th style="text-align: center; width: 280px;">Consider</th>
-        <th style="text-align: center;">Why</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="Debian"
-            title="Debian"
-            src="../../images/systems_debian.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Debian is known for its slow release cycle, most Debian-based distros
-          still use Xorg as the default display server.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="Fedora"
-            title="Fedora"
-            src="../../images/systems_fedora.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Due to law restrictions, RHEL-based distros are very strict about
-          including proprietary software in their repositories.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><b>Prefer</b></td>
-        <td style="text-align: center;"><b>Why</b></td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="Arch"
-            title="Arch"
-            src="../../images/systems_arch.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Arch Linux has a rolling release model that does not distract users
-          with major version upgrades. It also has the largest community
-          repository, less reservations against proprietary software and
-          wiki-style documentation.
-          <ul>
-            <li>
-              <a href="https://archlinux.org/download">
-                ISO
-              </a>
-            </li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-{: .important }
-> Arch Linux gets a bad reputation for being difficult to install, but this is
-  lately untrue with the [archinstall](https://wiki.archlinux.org/title/Archinstall)
-  command.
-
-### Downstream distros
+### Desktop distros
 
 <div class="code-example" markdown="1">
   <table>
@@ -145,6 +77,28 @@ distros come with a package manager.
       <tr>
         <td style="text-align: center;">
           <img
+            alt="Debian"
+            title="Debian"
+            src="../../images/systems_debian.svg"/>
+          &emsp;
+          <img
+            alt="Fedora"
+            title="Fedora"
+            src="../../images/systems_fedora.svg"/>
+          &emsp;
+          <img
+            alt="Arch"
+            title="Arch"
+            src="../../images/systems_arch.svg"/>
+        </td>
+        <td style="text-align: left;">
+          Downstream distros are lean but require more setup because they are
+          unconfigured.
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <img
             alt="Manjaro"
             title="Manjaro"
             src="../../images/systems_manjaro.svg"/>
@@ -162,27 +116,6 @@ distros come with a package manager.
         <td style="text-align: left;">
           Considerable modifications to upstream packages and default themes but
           are still generally user-friendly.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="AlmaLinux"
-            title="AlmaLinux"
-            src="../../images/systems_almalinux.svg"/>
-          &emsp;
-          <img
-            alt="CentOS"
-            title="CentOS"
-            src="../../images/systems_centos.svg"/>
-          &emsp;
-          <img
-            alt="Rocky Linux"
-            title="Rocky Linux"
-            src="../../images/systems_rocky_linux.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Decent alternatives to RHEL, known for servers with GUIs.
         </td>
       </tr>
       <tr>
@@ -231,7 +164,7 @@ distros come with a package manager.
   </table>
 </div>
 
-### Web-managed distros
+### Server distros
 
 <div class="code-example" markdown="1">
   <table>
@@ -263,12 +196,34 @@ distros come with a package manager.
       <tr>
         <td style="text-align: center;">
           <img
+            alt="AlmaLinux"
+            title="AlmaLinux"
+            src="../../images/systems_almalinux.svg"/>
+          &emsp;
+          <img
+            alt="CentOS"
+            title="CentOS"
+            src="../../images/systems_centos.svg"/>
+          &emsp;
+          <img
+            alt="Rocky Linux"
+            title="Rocky Linux"
+            src="../../images/systems_rocky_linux.svg"/>
+        </td>
+        <td style="text-align: left;">
+          Decent alternatives to RHEL, known for servers with GUIs.
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
+          <img
             alt="OpenMediaVault"
             title="OpenMediaVault"
             src="../../images/systems_openmediavault.svg"/>
         </td>
         <td style="text-align: left;">
-          Notably easier to setup, ZFS support is available through plugins.
+          Notably easier to setup than TrueNAS, ZFS support is available with
+          plugins.
         </td>
       </tr>
       <tr>
@@ -517,7 +472,7 @@ applications from the command line.
         </td>
         <td style="text-align: left;">
           Clover is a legacy macOS bootloader. While it still works,
-          optimization requires quirks and a lot of trial and error.
+          optimization requires quirks, trial and error.
         </td>
       </tr>
       <tr>
@@ -586,6 +541,7 @@ Windows comes with `winget` package manager.
         <td style="text-align: left;">
           Plain Windows is very bloated, requires an online account in
           pre-install and automatically logs in to OneDrive once installed.
+          <label class="label label-purple">Not free</label>
         </td>
       </tr>
       <tr>
@@ -602,6 +558,7 @@ Windows comes with `winget` package manager.
         <td style="text-align: left;">
           Build your own Windows ISO with PowerShell scripts, does not remove
           security features and Windows Update.
+          <label class="label label-purple">Not free</label>
           <ul>
             <li>
               <a href="https://github.com/ntdevlabs/tiny11builder/releases/latest/">

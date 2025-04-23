@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="164.571"
+   height="64"
+   viewBox="0 0 5.4857 2.1333333"
+   id="svg2"
+   sodipodi:docname="languages_npm.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4685185"
+     inkscape:cx="270.11189"
+     inkscape:cy="104.95649"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#cb3837"
+     d="M 0,0 H 5.4857143 V 1.8285714 H 2.7428571 V 2.1333333 H 1.5238095 V 1.8285714 H 0 Z M 0.3047619,1.5238095 H 0.91428571 V 0.60952381 H 1.2190476 V 1.5238095 H 1.5238095 V 0.3047619 H 0.3047619 Z M 1.8285714,0.3047619 V 1.8285714 H 2.4380952 V 1.5238095 H 3.047619 V 0.3047619 Z M 2.4380952,0.60952381 H 2.7428571 V 1.2190476 H 2.4380952 Z M 3.352381,0.3047619 V 1.5238095 H 3.9619048 V 0.60952381 H 4.2666667 V 1.5238095 H 4.5714286 V 0.60952381 H 4.8761905 V 1.5238095 H 5.1809524 V 0.3047619 Z"
+     id="path1"
+     style="stroke-width:0.304762" />
+  <polygon
+     fill="#ffffff"
+     points="4,2 4,5 5,5 5,1 1,1 1,5 3,5 3,2 "
+     id="polygon1"
+     transform="scale(0.3047619)" />
+  <path
+     fill="#ffffff"
+     d="M 1.8285714,0.3047619 V 1.8285714 H 2.4380952 V 1.5238095 H 3.047619 V 0.3047619 Z M 2.7428571,1.2190476 H 2.4380952 V 0.60952381 h 0.3047619 z"
+     id="path2"
+     style="stroke-width:0.304762" />
+  <polygon
+     fill="#ffffff"
+     points="13,2 14,2 14,5 15,5 15,2 16,2 16,5 17,5 17,1 11,1 11,5 13,5 "
+     id="polygon2"
+     transform="scale(0.3047619)" />
+</svg>

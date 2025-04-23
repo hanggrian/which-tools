@@ -7,7 +7,8 @@ nav_order: 2
 # Design
 {: .no_toc }
 
-&#8220;The ultimate inspiration is the deadline.&#8221; &mdash; *Nolan Bushnell*
+&ldquo;The ultimate inspiration is the deadline.&rdquo;
+&mdash; *Nolan Bushnell*
 {: .fs-6 .fw-300 }
 
 ## Table of contents

@@ -7,8 +7,8 @@ nav_order: 1
 # Code
 {: .no_toc }
 
-&#8220;If debugging is the process of removing software bugs, then programming
-must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
+&ldquo;Code is like humor. When you have to explain it, it's bad.&rdquo;
+&mdash; *Cory House*
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -112,6 +112,28 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
     <tbody>
       <tr>
         <td style="text-align: center;">
+          <img
+            alt="Geany"
+            title="Geany"
+            src="../../../images/apps/code_geany.svg"/>
+          &emsp;
+          <a href="https://wiki.archlinux.org/title/KDevelop">
+            <img
+              alt="KDevelop"
+              title="KDevelop"
+              src="../../../images/apps/code_kdevelop.svg"/>
+          </a>
+        </td>
+        <td style="text-align: left;">
+          Lightweight IDEs lack features and are not extensible.
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><b>Consider</b></td>
+        <td style="text-align: center;"><b>Why</b></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">
           <a href="https://wiki.archlinux.org/title/NetBeans">
             <img
               alt="NetBeans"
@@ -124,10 +146,6 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
         </td>
       </tr>
       <tr>
-        <td style="text-align: center;"><b>Consider</b></td>
-        <td style="text-align: center;"><b>Why</b></td>
-      </tr>
-      <tr>
         <td style="text-align: center;">
           <a href="https://wiki.archlinux.org/title/Eclipse">
             <img
@@ -138,31 +156,6 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
         </td>
         <td style="text-align: left;">
           Eclipse supports many languages and has a large community.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <img
-            alt="Geany"
-            title="Geany"
-            src="../../../images/apps/code_geany.svg"/>
-        </td>
-        <td style="text-align: left;">
-          Geany is noticably lighter than other IDEs in this list.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <a href="https://wiki.archlinux.org/title/KDevelop">
-            <img
-              alt="KDevelop"
-              title="KDevelop"
-              src="../../../images/apps/code_kdevelop.svg"/>
-          </a>
-        </td>
-        <td style="text-align: left;">
-          Decent support for many languages but without semantic analysis, part
-          of KDE.
         </td>
       </tr>
       <tr>
@@ -214,19 +207,21 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
     <tbody>
       <tr>
         <td style="text-align: center;">
-          <img
-            alt="Atom"
-            title="Atom"
-            src="../../../images/apps/code_atom.svg"/>
-          &emsp;
-          <img
-            alt="Brackets"
-            title="Brackets"
-            src="../../../images/apps/code_brackets.svg"/>
+          <a href="https://wiki.archlinux.org/title/GNOME/Gedit">
+            <img
+              alt="gedit"
+              title="gedit"
+              src="../../../images/apps/code_gedit.svg"/>
+          </a>
+          <a href="https://wiki.archlinux.org/title/Kate">
+            <img
+              alt="Kate"
+              title="Kate"
+              src="../../../images/apps/code_kate.svg"/>
+          </a>
         </td>
         <td style="text-align: left;">
-          Atom and Brackets are discontinued.
-          <label class="label label-yellow">Built on Electron</label>
+          Default text editors lack features and are not extensible.
         </td>
       </tr>
       <tr>
@@ -251,34 +246,6 @@ must be the process of putting them in.&#8221; &mdash; *Edsger Dijkstra*
           Visual Studio Code has a healthy amount of extensions and integrates
           with GitHub Copilot.
           <label class="label label-yellow">Built on Electron</label>
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <a href="https://wiki.archlinux.org/title/GNOME/Gedit">
-            <img
-              alt="gedit"
-              title="gedit"
-              src="../../../images/apps/code_gedit.svg"/>
-          </a>
-        </td>
-        <td style="text-align: left;">
-          gedit picks up existing dictionaries to perform spell checking, part
-          of GNOME.
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <a href="https://wiki.archlinux.org/title/Kate">
-            <img
-              alt="Kate"
-              title="Kate"
-              src="../../../images/apps/code_kate.svg"/>
-          </a>
-        </td>
-        <td style="text-align: left;">
-          Kate respects EditorConfig settings, part of KDE.
-          <label class="label label-red">No Mac client</label>
         </td>
       </tr>
       <tr>

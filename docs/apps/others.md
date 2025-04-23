@@ -7,8 +7,9 @@ nav_order: 4
 # Others
 {: .no_toc }
 
-&#8220;I don't care if it works on your machine! We are not shipping your
-machine!&#8221; &mdash; *Vidiu Platon*
+&ldquo;I don't care if it works on your machine! We are not shipping your
+machine!&rdquo;
+&mdash; *Vidiu Platon*
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -68,7 +69,8 @@ machine!&#8221; &mdash; *Vidiu Platon*
             src="../../../images/apps/others_smartgit.png"/>
         </td>
         <td style="text-align: left;">
-          SmartGit is free for non-commercial use.
+          SmartGit is highly configurable.
+          <label class="label label-purple">Not free</label>
         </td>
       </tr>
       <tr>

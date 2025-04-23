@@ -7,7 +7,8 @@ nav_order: 2
 # Integration
 {: .no_toc }
 
-&#8220;The internet? We are not interested in it.&#8221; &mdash; Bill Gates
+&ldquo;The internet? We are not interested in it.&rdquo;
+&mdash; Bill Gates
 {: .fs-6 .fw-300 }
 
 ## Table of contents

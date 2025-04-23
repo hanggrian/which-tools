@@ -7,8 +7,9 @@ nav_order: 3
 # Documents
 {: .no_toc }
 
-&#8220;Most people work just hard enough not to get fired and get paid just
-enough money not to quit.&#8221; &mdash; *George Carlin*
+&ldquo;Most people work just hard enough not to get fired and get paid just
+enough money not to quit.&rdquo;
+&mdash; *George Carlin*
 {: .fs-6 .fw-300 }
 
 ## Table of contents
